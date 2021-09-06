@@ -1,0 +1,35 @@
+.navigation-bar {
+  width: 100%;
+  position: fixed;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(149, 174, 243),
+    rgb(238, 234, 234)
+  );
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0px 2px 6px rgb(151, 151, 151);
+  z-index: 100;
+}
+.navigation-bar h1 {
+  color: black;
+}
+
+.logo {
+  background-image: url("../images/logo2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 160px;
+  height: 70px;
+  /* border: 1px solid red; */
+}
+.logo:hover {
+  background-image: url("../images/logoChange2.png");
+}

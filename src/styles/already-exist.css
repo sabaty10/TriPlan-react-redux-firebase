@@ -1,0 +1,36 @@
+.already-exist__container {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  background-color: rgba(22, 20, 26, 0.452);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.already-exist {
+  width: 60%;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(241, 241, 241, 0.87),
+    rgb(207, 207, 207)
+  );
+  border-radius: 5px;
+  position: relative;
+  align-items: center;
+}
+.already-exist h1 {
+  font-family: "Poppins", sans-serif;
+
+  text-align: center;
+  color: rgb(20, 46, 46);
+  font-size: 56px;
+}

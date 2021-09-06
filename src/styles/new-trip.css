@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap");
+
+.new-trip__container {
+  z-index: 100;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.52),
+    rgb(93, 93, 93)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.close-from-outside {
+  background-color: rgba(111, 0, 255, 0);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+}
+.new-trip__form-container {
+  width: 60%;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(241, 241, 241, 0.87),
+    rgb(207, 207, 207)
+  );
+  border-radius: 5px;
+  position: relative;
+}
+.new-trip__form-container h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.new-trip__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 80%;
+
+  border-radius: 5px;
+}
+.new-trip__form section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 60px;
+}
+.input_note {
+  color: red;
+}
