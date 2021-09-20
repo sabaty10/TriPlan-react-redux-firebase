@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/triplan-react-redux-firebase/static/css/main.bf7df325.chunk.css",
-    "main.js": "/triplan-react-redux-firebase/static/js/main.97345f8c.chunk.js",
-    "main.js.map": "/triplan-react-redux-firebase/static/js/main.97345f8c.chunk.js.map",
+    "main.css": "/triplan-react-redux-firebase/static/css/main.33e135e5.chunk.css",
+    "main.js": "/triplan-react-redux-firebase/static/js/main.6121618a.chunk.js",
+    "main.js.map": "/triplan-react-redux-firebase/static/js/main.6121618a.chunk.js.map",
     "runtime-main.js": "/triplan-react-redux-firebase/static/js/runtime-main.69ba6d67.js",
     "runtime-main.js.map": "/triplan-react-redux-firebase/static/js/runtime-main.69ba6d67.js.map",
-    "static/js/2.9e91ee74.chunk.js": "/triplan-react-redux-firebase/static/js/2.9e91ee74.chunk.js",
-    "static/js/2.9e91ee74.chunk.js.map": "/triplan-react-redux-firebase/static/js/2.9e91ee74.chunk.js.map",
+    "static/js/2.e9b1512f.chunk.js": "/triplan-react-redux-firebase/static/js/2.e9b1512f.chunk.js",
+    "static/js/2.e9b1512f.chunk.js.map": "/triplan-react-redux-firebase/static/js/2.e9b1512f.chunk.js.map",
     "index.html": "/triplan-react-redux-firebase/index.html",
-    "static/css/main.bf7df325.chunk.css.map": "/triplan-react-redux-firebase/static/css/main.bf7df325.chunk.css.map",
-    "static/js/2.9e91ee74.chunk.js.LICENSE.txt": "/triplan-react-redux-firebase/static/js/2.9e91ee74.chunk.js.LICENSE.txt",
+    "static/css/main.33e135e5.chunk.css.map": "/triplan-react-redux-firebase/static/css/main.33e135e5.chunk.css.map",
+    "static/js/2.e9b1512f.chunk.js.LICENSE.txt": "/triplan-react-redux-firebase/static/js/2.e9b1512f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/triplan-react-redux-firebase/static/media/22.c6eee0ab.jpg",
     "static/media/header.css": "/triplan-react-redux-firebase/static/media/logoChange2.8fa3a984.png"
   },
   "entrypoints": [
     "static/js/runtime-main.69ba6d67.js",
-    "static/js/2.9e91ee74.chunk.js",
-    "static/css/main.bf7df325.chunk.css",
-    "static/js/main.97345f8c.chunk.js"
+    "static/js/2.e9b1512f.chunk.js",
+    "static/css/main.33e135e5.chunk.css",
+    "static/js/main.6121618a.chunk.js"
   ]
 }
