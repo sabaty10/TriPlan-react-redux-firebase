@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/triplan-react-redux-firebase/static/css/main.26265ab2.chunk.css",
-    "main.js": "/triplan-react-redux-firebase/static/js/main.aeb4c9f7.chunk.js",
-    "main.js.map": "/triplan-react-redux-firebase/static/js/main.aeb4c9f7.chunk.js.map",
+    "main.js": "/triplan-react-redux-firebase/static/js/main.617d9bb8.chunk.js",
+    "main.js.map": "/triplan-react-redux-firebase/static/js/main.617d9bb8.chunk.js.map",
     "runtime-main.js": "/triplan-react-redux-firebase/static/js/runtime-main.69ba6d67.js",
     "runtime-main.js.map": "/triplan-react-redux-firebase/static/js/runtime-main.69ba6d67.js.map",
     "static/js/2.968f59eb.chunk.js": "/triplan-react-redux-firebase/static/js/2.968f59eb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.69ba6d67.js",
     "static/js/2.968f59eb.chunk.js",
     "static/css/main.26265ab2.chunk.css",
-    "static/js/main.aeb4c9f7.chunk.js"
+    "static/js/main.617d9bb8.chunk.js"
   ]
 }
